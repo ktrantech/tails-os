@@ -84,8 +84,12 @@ Step 1. Go to Tails OS Website
 <img width="659" alt="Screenshot 2025-02-10 at 8 03 26 PM" src="https://github.com/user-attachments/assets/69f40892-b7de-4af7-8229-3e543269f726" />
 
 
-- Click the Select target button to select your USB stick
-- Click Flash
+- Click the Select target button to select your USB stick⬇️
+- Click Flash⬇️
+
+<img width="618" alt="Screenshot 2025-02-10 at 8 11 10 PM" src="https://github.com/user-attachments/assets/17d55bcb-8abf-4e2d-98b6-dd00241f71c5" />
+
+
 - Enter your password if you are asked for it
 - The installation takes a few minutes
 - After installing Tails, balenaEtcher verifies the installation
